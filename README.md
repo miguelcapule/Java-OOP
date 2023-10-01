@@ -5,7 +5,7 @@ Java is a flexible and popular programming language that supports the concepts o
 
 Classes and Objects: In Java, everything is represented as objects. A class is a blueprint for creating objects. It defines the properties (attributes) and behaviors (methods) that objects of that class will have.
 
-Default Constructor: If you don't define any constructors in your class, Java provides a default, no-argument constructor. It initializes the object with default values (e.g., numeric fields to 0, references to null).
+Constructors: are an essential part of object-oriented programming in Java. They are special methods within a class that are used to initialize objects when they are created. Constructors have the same name as the class and do not have a return type. 
 
 Object Methods: are special methods that every class inherits from the Object class, which is the root class for all Java classes. These methods provide default implementations for common operations that can be performed on objects.
 
